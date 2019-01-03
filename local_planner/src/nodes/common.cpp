@@ -227,5 +227,4 @@ geometry_msgs::Vector3 toVector3(const Eigen::Vector3f& ev3) {
   gv3.z = ev3.z();
   return gv3;
 }
-
 }
